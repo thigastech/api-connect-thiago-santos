@@ -229,7 +229,7 @@ Este projeto foi desenvolvido como atividade prática de faculdade para consolid
 
 ## Autor
 
-**Estudante de Ciência da Computação**
+*Thiago Santos - Estudante da UNICSUL**
 
 Projeto desenvolvido para fins **acadêmicos e de aprendizado**.
 
